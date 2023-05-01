@@ -9,6 +9,8 @@ packages = [{include = "stock_analysis_jupyter"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 notebook = "^6.5.4"
+pandas-datareader = "^0.10.0"
+yfinance = "^0.2.18"
 
 
 [build-system]
