@@ -8,6 +8,7 @@ packages = [{include = "stock_analysis_jupyter"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+notebook = "^6.5.4"
 
 
 [build-system]
